@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "university-management-system",
+  "description": "University Management System — Education Laravel Filament ERP/SaaS for Bangladesh (Dhaka). University ERP for student information, credit hours, faculty, examinations, and finance. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "education",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/university-management-system"
+}
